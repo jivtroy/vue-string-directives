@@ -1,0 +1,74 @@
+{
+  "name": "vue-string-directives",
+  "version": "0.1.0",
+  "description": "Vue string directives library can change form input value dynamically.",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "types": "./dist/types/main.d.ts",
+  "main": "./dist/vue-string-directives.umd.cjs",
+  "module": "./dist/vue-string-directives.js",
+  "exports": {
+    ".": {
+      "types": "./dist/types/main.d.ts",
+      "import": "./dist/vue-string-directives.js",
+      "require": "./dist/vue-string-directives.umd.cjs"
+    }
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue3",
+    "nuxt",
+    "nuxtjs",
+    "vue-directive",
+    "directives",
+    "directive",
+    "form",
+    "input",
+    "string",
+    "string-manipulation",
+    "text-formatting",
+    "trim",
+    "lowercase",
+    "uppercase",
+    "capitalize",
+    "slugify",
+    "truncate",
+    "mask",
+    "utility",
+    "validation",
+    "transformation",
+    "sanitize",
+    "input-mask",
+    "javascript",
+    "js",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jivtroy/vue-string-directives.git"
+  },
+  "author": "Jiv Troy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jivtroy/vue-string-directives/issues"
+  },
+  "homepage": "https://jivtroy.github.io/vue-string-directives/",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && tsc",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "string-filters": "^0.1.0",
+    "vue": "^3.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.4",
+    "vite-plugin-banner": "^0.8.1"
+  }
+}
