@@ -1,5 +1,5 @@
 /*! 
- * Vue String Directives v1.0.0
+ * Vue String Directives v2.0.0
  * Homepage (https://jivtroy.github.io/vue-string-directives/)
  * Copyright 2026 Jiv Troy
  * License: MIT
