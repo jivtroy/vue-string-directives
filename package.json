@@ -56,6 +56,12 @@
     "url": "https://github.com/jivtroy/vue-string-directives/issues"
   },
   "homepage": "https://jivtroy.github.io/vue-string-directives/",
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://patreon.com"
+    }
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build && tsc",
