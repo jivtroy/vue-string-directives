@@ -49,37 +49,37 @@ npm install vue-string-directives
 ### Bun
 
 ```bash
-bun add hover-menu
+bun add vue-string-directives
 ```
 
 ### Deno
 
 ```bash
-deno add npm:hover-menu
+deno add npm:vue-string-directives
 ```
 
 ### PNPM
 
 ```bash
-pnpm add hover-menu
+pnpm add vue-string-directives
 ```
 
 ### Yarn
 
 ```bash
-yarn add hover-menu
+yarn add vue-string-directives
 ```
 
 ### Nub
 
 ```bash
-nub install hover-menu
+nub install vue-string-directives
 ```
 
 ### Vlt
 
 ```bash
-vlt install hover-menu
+vlt install vue-string-directives
 ```
 
 ## Usage
