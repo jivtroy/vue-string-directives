@@ -7,12 +7,6 @@ Vue string directives library can change form input value dynamically. All langu
 1. [Compatibility](#compatibility)
 2. [Installation](#installation)
    1. [NPM](#npm)
-   2. [Bun](#bun)
-   3. [Deno](#deno)
-   4. [PNPM](#pnpm)
-   5. [Yarn](#yarn)
-   6. [Nub](#nub)
-   7. [Vlt](#vlt)
 3. [Usage](#usage)
    1. [Camel case](#camel-case)
    2. [Capitalize](#capitalize)
@@ -44,42 +38,6 @@ Vue | >= 3.5
 
 ```bash
 npm install vue-string-directives
-```
-
-### Bun
-
-```bash
-bun add vue-string-directives
-```
-
-### Deno
-
-```bash
-deno add npm:vue-string-directives
-```
-
-### PNPM
-
-```bash
-pnpm add vue-string-directives
-```
-
-### Yarn
-
-```bash
-yarn add vue-string-directives
-```
-
-### Nub
-
-```bash
-nub install vue-string-directives
-```
-
-### Vlt
-
-```bash
-vlt install vue-string-directives
 ```
 
 ## Usage
